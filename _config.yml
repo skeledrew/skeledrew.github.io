@@ -57,6 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
+  - text: "Luck is when preparation meets opportunity."
 
 me-img: "/img/jetpacktocat.png"
 
